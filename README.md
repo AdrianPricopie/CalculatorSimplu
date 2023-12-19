@@ -18,7 +18,7 @@ Acest proiect reprezintă o simplă aplicație de calculator implementată în l
 - **Ieșire (x):** `x`
 
 ## Exemplu de utilizare
-``plaintext
+
 
     Introdu valoarea initiala (initial este 0): 10
     > + 5
