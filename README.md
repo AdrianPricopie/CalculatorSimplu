@@ -38,5 +38,6 @@ Am creat un Python Package, calculators care contine 3 fisiere python:
 
 - _ init _.py
 - calculator_simplu.py => in acest fisier am creat clasa CalculatorSimplu() și metodele necesare pentru operațiile aritmetice (+, -, *, /) precum si metoda de afișare a rezultatului
-- main.py(fisierul unde se ruleaza aplicatia) => aici am importat clasa CalculatorSimplu() prin comanda: from calculators.calculator_simplu import CalculatorSimplu, precum si functia afisare_rezultat() prin -=-- -- comanda: from calculators.calculator_simplu import afisare_rezultat si am creat obiectul calculator
+- main.py(fisierul unde se ruleaza aplicatia) => aici am importat clasa CalculatorSimplu() prin comanda: from calculators.calculator_simplu import CalculatorSimplu, precum si functia afisare_rezultat() prin comanda: from calculators.calculator_simplu import afisare_rezultat si am creat obiectul calculator
+
 
